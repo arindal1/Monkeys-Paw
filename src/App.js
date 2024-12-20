@@ -9,7 +9,7 @@ function App() {
     <div className="dark-bg text-white min-h-screen flex items-center justify-center w-full">
       {/* gitHub Logo */}
       <a
-        href="https://github.com/arindal1/MonkeysPaw"
+        href="https://github.com/arindal1/Monkeys-Paw"
         target="_blank"
         rel="noopener noreferrer"
         className="absolute top-6 right-6"
